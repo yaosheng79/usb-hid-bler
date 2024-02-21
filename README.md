@@ -1,3 +1,5 @@
+forked from https://github.com/dnstzzx/usb-hid-bler
+
 # USB-HID-BLER
 将有线鼠标键盘游戏手柄等USB HID转换为蓝牙设备，附带鼠键宏和指纹解锁功能。[前作](https://oshwhub.com/dnstzzx/c3-hid)
 
